@@ -20,7 +20,7 @@ This repository contains C++ exercises and small projects completed as part of m
 
 ## Notes
 * All exercises are academic and for learning purposes
-* Each folder contains a brief comment header explaining the exercise objectives
+* Each folder contains a brief comment header explaining the exercise objectives ( written in French )
 
 ## Contact
 For questions or collaboration, you can reach me at: elmozariahimarouane05@gmail.com
